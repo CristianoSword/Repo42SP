@@ -1,0 +1,72 @@
+[2021-07-08 17:04:44.941] [exthost] [info] extension host started
+[2021-07-08 17:04:45.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-08 17:04:45.054] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2021-07-08 17:04:45.060] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-07-08 17:04:45.060] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-08 17:04:45.091] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-08 17:04:45.092] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2021-07-08 17:04:45.153] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-07-08 17:04:45.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-08 17:04:45.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-07-08 17:04:45.158] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2021-07-08 17:04:45.159] [exthost] [info] ExtensionService#_doActivateExtension kube.42header {"startup":true,"extensionId":{"value":"kube.42header","_lower":"kube.42header"},"activationEvent":"*"}
+[2021-07-08 17:04:45.159] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/crcamach/.local/share/code-server/extensions/kube.42header-0.42.7/out/src/extension
+[2021-07-08 17:04:45.254] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-08 17:04:45.254] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2021-07-08 17:04:45.323] [exthost] [info] eager extensions activated
+[2021-07-08 17:42:32.895] [exthost] [info] extension host started
+[2021-07-08 17:42:33.274] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-08 17:42:33.275] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2021-07-08 17:42:33.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-07-08 17:42:33.282] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-08 17:42:33.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-08 17:42:33.321] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2021-07-08 17:42:33.420] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-07-08 17:42:33.420] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-08 17:42:33.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-07-08 17:42:33.426] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2021-07-08 17:42:33.428] [exthost] [info] ExtensionService#_doActivateExtension kube.42header {"startup":true,"extensionId":{"value":"kube.42header","_lower":"kube.42header"},"activationEvent":"*"}
+[2021-07-08 17:42:33.428] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/crcamach/.local/share/code-server/extensions/kube.42header-0.42.7/out/src/extension
+[2021-07-08 17:42:33.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-08 17:42:33.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2021-07-08 17:42:33.795] [exthost] [info] eager extensions activated
+[2021-07-08 17:42:54.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-07-08 17:42:54.314] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/grunt/dist/main
+[2021-07-08 17:42:54.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-07-08 17:42:54.318] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/gulp/dist/main
+[2021-07-08 17:42:54.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-07-08 17:42:54.321] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/jake/dist/main
+[2021-07-08 17:42:54.324] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-07-08 17:42:54.324] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/npm/dist/npmMain
+[2021-07-08 17:42:54.336] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2021-07-08 17:42:54.336] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/typescript-language-features/dist/extension
+[2021-07-08 17:44:57.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-07-08 17:44:57.702] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/extension-editing/dist/extensionEditingMain
+[2021-07-08 17:44:57.718] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-07-08 17:44:57.718] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/markdown-language-features/dist/extension
+[2021-07-08 17:44:57.757] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-07-08 17:44:57.758] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-07-08 17:44:57.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-07-08 17:44:57.785] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/configuration-editing/dist/configurationEditingMain
+[2021-07-08 17:44:57.791] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-07-08 17:44:57.792] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-07-08 17:44:57.835] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2021-07-08 17:44:57.835] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-08 17:44:58.246] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-07-08 17:44:58.246] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-07-08 18:18:15.256] [exthost] [info] extension host started
+[2021-07-08 18:18:15.393] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-08 18:18:15.394] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2021-07-08 18:18:15.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-07-08 18:18:15.400] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-08 18:18:15.428] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-08 18:18:15.428] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2021-07-08 18:18:15.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-07-08 18:18:15.490] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-08 18:18:15.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-07-08 18:18:15.495] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2021-07-08 18:18:15.496] [exthost] [info] ExtensionService#_doActivateExtension kube.42header {"startup":true,"extensionId":{"value":"kube.42header","_lower":"kube.42header"},"activationEvent":"*"}
+[2021-07-08 18:18:15.496] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/crcamach/.local/share/code-server/extensions/kube.42header-0.42.7/out/src/extension
+[2021-07-08 18:18:15.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-08 18:18:15.642] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2021-07-08 18:18:15.820] [exthost] [info] eager extensions activated
