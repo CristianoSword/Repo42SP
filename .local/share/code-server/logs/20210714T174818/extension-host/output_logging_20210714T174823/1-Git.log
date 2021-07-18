@@ -1,0 +1,58 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/crcamach
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Shell00/ex01/testShell00
+> git ls-files --stage -- /home/crcamach/Shell00/ex01/testShell00
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex01/testShell00
+> git ls-files --stage -- /home/crcamach/Shell00/ex01/testShell00
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex02/test0
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test0
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex02/test1
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test1
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex02/test2
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test2
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex02/test4
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test4
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex02/test3
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test3
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex02/test5
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test5
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex02/test6
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test6
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex02/test5
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test5
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex02/test1
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test1
+> git show --textconv :Shell00/ex02/test5
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test5
+> git show --textconv :Shell00/ex02/test3
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test3
+> git show --textconv :Shell00/ex02/test5
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test5
+> git show --textconv :Shell00/ex02/test4
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test4
+> git show --textconv :Shell00/ex02/test5
+> git ls-files --stage -- /home/crcamach/Shell00/ex02/test5

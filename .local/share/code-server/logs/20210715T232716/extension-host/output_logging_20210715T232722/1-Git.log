@@ -1,0 +1,127 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/crcamach
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex05/arq1
+> git ls-files --stage -- /home/crcamach/Shell00/ex05/arq1
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex05/arq2
+> git ls-files --stage -- /home/crcamach/Shell00/ex05/arq2
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex05/git_ignore.sh
+> git ls-files --stage -- /home/crcamach/Shell00/ex05/git_ignore.sh
+> git show --textconv :Shell00/ex05/gitignore
+> git ls-files --stage -- /home/crcamach/Shell00/ex05/gitignore
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex05/git_ignore.sh
+> git ls-files --stage -- /home/crcamach/Shell00/ex05/git_ignore.sh
+> git show --textconv :Shell00/ex05/gitignore
+> git ls-files --stage -- /home/crcamach/Shell00/ex05/gitignore
+> git show --textconv :Shell00/ex05/.itignore
+> git ls-files --stage -- /home/crcamach/Shell00/ex05/.itignore
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex05/git_ignore.sh
+> git ls-files --stage -- /home/crcamach/Shell00/ex05/git_ignore.sh
+> git show --textconv :Shell00/ex05/arq2
+> git ls-files --stage -- /home/crcamach/Shell00/ex05/arq2
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex07/clean
+> git ls-files --stage -- /home/crcamach/Shell00/ex07/clean
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex08/arq.42
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.42
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex08/ft_magic
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magic
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex08/arq.42
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.42
+> git show --textconv :Shell00/ex08/ft_magic
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magic
+> git show --textconv :Shell00/ex08/arq.42
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.42
+> git show --textconv :Shell00/ex08/ft_magic
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magic
+> git show --textconv :Shell00/ex08/arq.42
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.42
+> git show --textconv :Shell00/ex08/ft_magic
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magic
+> git show --textconv :Shell00/ex08/arq.cr
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.cr
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex08/arq.42
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.42
+> git show --textconv :Shell00/ex08/arq.cr
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.cr
+> git show --textconv :Shell00/ex08/ft_magic
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magic
+> git show --textconv :Shell00/ex08/arq.cr
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.cr
+> git show --textconv :Shell00/ex08/arq.42
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.42
+> git show --textconv :Shell00/ex08/arq.cr
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.cr
+> git show --textconv :Shell00/ex08/ft_magia
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magia
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex08/arq.42
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.42
+> git show --textconv :Shell00/ex08/arq copy.42
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq copy.42
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex08/arq.cc
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.cc
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex08/arq.c7
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.c7
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex08/arq.rty
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.rty
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex08/ft_magia
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magia
+> git show --textconv :Shell00/ex08/ft_magic
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magic
+> git show --textconv :Shell00/ex08/ft_magia
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magia
+> git show --textconv :Shell00/ex08/arq.rty
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/arq.rty
+> git show --textconv :Shell00/ex08/ft_magia
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magia
+> git show --textconv :Shell00/ex08/ft_magic
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magic
+> git show --textconv :Shell00/ex07/clean
+> git ls-files --stage -- /home/crcamach/Shell00/ex07/clean
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex08/ft_magic
+> git ls-files --stage -- /home/crcamach/Shell00/ex08/ft_magic
+> git show --textconv :Shell00/ex05/arq2
+> git ls-files --stage -- /home/crcamach/Shell00/ex05/arq2
+> git show --textconv :Shell00/ex05/arq1
+> git ls-files --stage -- /home/crcamach/Shell00/ex05/arq1
+> git show --textconv :Shell00/ex06/a
+> git ls-files --stage -- /home/crcamach/Shell00/ex06/a
+> git show --textconv :Shell00/ex06/b
+> git ls-files --stage -- /home/crcamach/Shell00/ex06/b
+> git show --textconv :Shell00/ex06/a
+> git ls-files --stage -- /home/crcamach/Shell00/ex06/a
+> git show --textconv :Shell00/ex06/b
+> git ls-files --stage -- /home/crcamach/Shell00/ex06/b
+> git check-ignore -v -z --stdin

@@ -1,0 +1,24 @@
+[2021-07-14 17:48:22.228] [exthost] [info] extension host started
+[2021-07-14 17:48:22.692] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-14 17:48:22.693] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/debug-auto-launch/dist/extension
+[2021-07-14 17:48:22.699] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-07-14 17:48:22.699] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-14 17:48:22.732] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-14 17:48:22.733] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/git/dist/main
+[2021-07-14 17:48:22.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-07-14 17:48:22.807] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-14 17:48:22.811] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-07-14 17:48:22.811] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/search-result/dist/extension.js
+[2021-07-14 17:48:22.813] [exthost] [info] ExtensionService#_doActivateExtension kube.42header {"startup":true,"extensionId":{"value":"kube.42header","_lower":"kube.42header"},"activationEvent":"*"}
+[2021-07-14 17:48:22.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/crcamach/.local/share/code-server/extensions/kube.42header-0.42.7/out/src/extension
+[2021-07-14 17:48:23.582] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-14 17:48:23.582] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/github/dist/extension.js
+[2021-07-14 17:48:23.637] [exthost] [info] eager extensions activated
+[2021-07-14 17:48:35.247] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/crcamach/pasta/eu' is in submodule 'pasta'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-07-14 17:48:35.247] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/crcamach/pasta/eu' is in submodule 'pasta'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2021-07-14 17:49:04.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-14 17:49:04.280] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/configuration-editing/dist/configurationEditingMain
+[2021-07-14 17:49:04.285] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-14 17:49:04.285] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-07-14 17:49:04.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-07-14 17:49:04.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/lib/vscode/extensions/typescript-language-features/dist/extension

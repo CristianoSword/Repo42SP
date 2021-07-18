@@ -1,0 +1,21 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/crcamach
+> git status -z -u
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/crcamach/C00/ex04/ft_is_negative.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/crcamach/C00/ex04/ft_is_negative.c
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :C00/ex04/ft_is_negative.c
+> git ls-files --stage -- /home/crcamach/C00/ex04/ft_is_negative.c
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/crcamach/C00/ex04/ft_is_negative.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/crcamach/C00/ex03/ft_print_numbers.c
+> git show --textconv :C00/ex03/ft_print_numbers.c
+> git ls-files --stage -- /home/crcamach/C00/ex03/ft_print_numbers.c

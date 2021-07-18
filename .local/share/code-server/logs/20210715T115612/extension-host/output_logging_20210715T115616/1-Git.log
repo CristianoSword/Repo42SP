@@ -1,0 +1,46 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --git-dir
+Open repository: /home/crcamach
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex03/midLS
+> git ls-files --stage -- /home/crcamach/Shell00/ex03/midLS
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/crcamach/Shell00/ex02/exo2.tar
+> git show --textconv :Shell00/ex03/midLS
+> git ls-files --stage -- /home/crcamach/Shell00/ex03/midLS
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Shell00/ex00/z
+> git ls-files --stage -- /home/crcamach/Shell00/ex00/z
+> git ls-files --stage -- /home/crcamach/Shell00/ex00/z
+> git cat-file -s e900b1c81c65dc52463027be827c1418fc7ff505
+> git show --textconv :Shell00/ex00/z
+> git ls-files --stage -- /home/crcamach/Shell00/ex00/z
+> git cat-file -s e900b1c81c65dc52463027be827c1418fc7ff505
+> git show --textconv :Shell00/ex00/z
+> git ls-files --stage -- /home/crcamach/Shell00/ex00/z
+> git cat-file -s e900b1c81c65dc52463027be827c1418fc7ff505
+> git show --textconv :Shell00/ex00/z
+> git ls-files --stage -- /home/crcamach/Shell00/ex00/z
+> git cat-file -s e900b1c81c65dc52463027be827c1418fc7ff505
+> git show --textconv :Shell00/ex00/z
+> git ls-files --stage -- /home/crcamach/Shell00/ex00/z
+> git cat-file -s e900b1c81c65dc52463027be827c1418fc7ff505
+> git show --textconv :Shell00/ex00/z
+> git ls-files --stage -- /home/crcamach/Shell00/ex00/z
+> git cat-file -s e900b1c81c65dc52463027be827c1418fc7ff505
+> git show --textconv :Shell00/ex00/z
+> git ls-files --stage -- /home/crcamach/Shell00/ex00/z
+> git cat-file -s e900b1c81c65dc52463027be827c1418fc7ff505
+> git show --textconv :Shell00/ex00/z

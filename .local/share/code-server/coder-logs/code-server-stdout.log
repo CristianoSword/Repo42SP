@@ -909,3 +909,1357 @@
 [2021-07-13T10:32:22.840Z] info    - No authentication
 [2021-07-13T10:32:22.840Z] info    - Not serving HTTPS
 [2021-07-13T10:35:09.606Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:31:02.186Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-13T14:31:02.192Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-13T14:31:02.192Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-13T14:31:02.197Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-13T14:31:02.197Z] info    - No authentication
+[2021-07-13T14:31:02.197Z] info    - Not serving HTTPS
+[2021-07-13T14:31:06.043Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:31:06.093Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:31:22.877Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:31:22.928Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:31:44.930Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:31:44.982Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:32:06.977Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:32:07.030Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:32:28.932Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:32:28.981Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:32:50.940Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:32:50.989Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:33:12.976Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:33:13.030Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:33:54.987Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:33:55.038Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:34:47.986Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:34:48.040Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:35:29.923Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:35:29.972Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:36:11.964Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:36:12.017Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:36:53.919Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:36:53.973Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:37:36.071Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:37:36.126Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:38:17.949Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:38:18.000Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:38:59.990Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:39:00.061Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:39:41.989Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:39:42.047Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:40:23.980Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:40:24.028Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:41:05.975Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:41:06.050Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:41:47.971Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:41:48.023Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:42:29.946Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:42:29.999Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:43:12.013Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:43:12.076Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:43:53.919Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:43:53.968Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:44:35.987Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:44:36.042Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:45:17.921Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:45:17.972Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:45:59.956Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:46:00.007Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:46:41.932Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:46:41.984Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:47:23.986Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:47:24.036Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:48:05.943Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:48:05.994Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:48:48.012Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:48:48.060Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:49:29.935Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:49:29.991Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:50:11.991Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:50:12.078Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:50:53.917Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:50:53.970Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:51:35.971Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:51:36.025Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:52:17.913Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:52:17.964Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:52:59.943Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:52:59.997Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:53:41.936Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:53:41.990Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:54:23.961Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:54:24.011Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:55:05.915Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:55:05.969Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:55:47.951Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:55:48.001Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:56:29.921Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:56:29.969Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:57:12.003Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:57:12.056Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:57:53.897Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:57:53.953Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:58:35.983Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:58:36.050Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:59:17.924Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:59:17.976Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:59:59.944Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T14:59:59.997Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:00:41.916Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:00:41.980Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:01:24.023Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:01:24.070Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:02:05.922Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:02:05.972Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:02:47.974Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:02:48.026Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:03:30.057Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:03:30.108Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:04:11.968Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:04:12.030Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:04:53.924Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:04:53.975Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:05:35.942Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:05:35.997Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:06:17.919Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:06:17.969Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:06:59.967Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:07:00.034Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:07:41.903Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:07:41.958Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:08:23.973Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:08:24.021Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:09:05.914Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:09:05.963Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:09:47.957Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:09:48.010Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:10:29.916Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:10:29.965Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:11:11.963Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:11:12.014Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:11:53.897Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:11:53.946Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:12:35.948Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:12:35.997Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:13:17.893Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:13:17.946Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:13:59.934Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:13:59.985Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:14:41.902Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:14:41.954Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:15:24.012Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:15:24.074Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:16:05.903Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:16:05.957Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:16:47.958Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:16:48.011Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:17:29.918Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:17:29.971Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:18:11.924Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:18:11.978Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:26:17.937Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:26:17.986Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:26:59.882Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:26:59.934Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:27:41.974Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:27:42.025Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:28:23.906Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:28:23.957Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:29:05.936Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:29:06.003Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:29:47.929Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:29:47.981Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:30:29.945Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:30:29.994Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:31:11.907Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:31:11.965Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:31:53.954Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:31:54.007Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:32:35.889Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:32:35.937Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:33:17.956Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:33:18.014Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:33:59.890Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:33:59.939Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:34:41.939Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:34:42.009Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:35:23.915Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:35:23.965Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:36:05.927Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:36:05.979Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:36:47.908Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:36:47.963Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:37:29.941Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:37:29.993Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:38:11.905Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:38:11.954Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:38:53.920Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:38:53.968Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:39:35.908Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:39:35.973Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:40:17.920Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:40:17.970Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:40:59.923Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:40:59.973Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:41:41.945Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:41:42.003Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:42:23.896Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:42:23.948Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:43:05.945Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:43:06.001Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:43:47.890Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:43:47.938Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:44:29.917Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:44:29.972Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:45:11.884Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:45:11.935Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:45:53.925Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:45:53.976Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:46:35.898Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:46:35.948Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:47:17.948Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:47:18.016Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:47:59.903Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:47:59.972Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:48:41.995Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:48:42.074Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:49:23.891Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:49:23.944Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:50:05.923Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:50:05.973Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:50:47.892Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:50:47.940Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:51:29.913Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:51:29.965Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:52:11.875Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:52:11.926Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:52:53.965Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:52:54.018Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:53:35.872Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:53:35.928Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:54:17.956Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:54:18.011Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:54:59.877Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:54:59.926Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:55:41.935Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:55:42.005Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:56:23.907Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:56:23.997Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:57:05.939Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:57:06.010Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:57:47.909Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:57:47.980Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:58:29.932Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:58:29.984Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:59:11.871Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:59:11.921Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:59:53.900Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T15:59:53.949Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:00:35.874Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:00:35.935Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:01:17.947Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:01:17.999Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:01:59.887Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:01:59.939Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:02:41.910Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:02:41.996Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:03:23.880Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:03:23.929Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:04:05.902Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:04:05.954Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:04:47.867Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:04:47.916Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:05:29.907Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:05:29.958Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:06:11.871Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:06:11.921Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:06:53.929Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:06:53.977Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:07:35.890Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:07:35.939Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:08:17.896Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:08:17.946Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:08:59.881Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:08:59.931Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:09:41.905Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:09:41.967Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:10:23.873Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:10:23.925Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:11:05.894Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:11:05.942Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:11:47.866Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:11:47.916Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:12:29.904Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:12:29.958Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:13:11.878Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:13:11.927Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:13:53.906Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:13:53.956Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:14:35.972Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:14:36.028Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:15:18.010Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:15:18.062Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:15:59.876Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:15:59.924Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:16:41.922Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:16:42.101Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:17:23.910Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:17:23.961Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:18:05.892Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:18:05.943Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:18:47.858Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:18:47.910Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:19:29.898Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:19:29.949Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:20:11.864Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:20:11.915Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:20:53.886Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:20:53.939Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:21:35.856Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:21:35.913Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:22:17.913Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:22:17.964Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:22:59.857Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:22:59.907Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:23:41.890Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:23:41.940Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:24:23.873Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:24:23.927Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:25:05.895Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:25:05.945Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:25:47.892Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:25:47.943Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:26:29.883Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:26:29.934Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:27:11.892Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:27:11.993Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:27:53.882Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:27:53.934Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:28:35.872Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:28:35.927Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:29:17.890Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:29:17.961Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:29:59.849Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:29:59.904Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:30:41.987Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:30:42.043Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:31:23.862Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:31:23.910Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:32:05.900Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:32:05.951Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:32:47.848Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:32:47.900Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:33:29.903Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:33:29.967Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:34:11.848Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:34:11.902Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:34:53.884Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:34:53.936Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:35:35.842Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:35:35.893Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:36:17.886Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:36:17.936Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:36:59.848Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:36:59.901Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:37:41.899Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:37:41.949Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:38:23.875Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:38:23.924Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:39:05.907Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:39:05.961Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:39:47.858Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:39:47.910Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:40:29.896Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:40:29.949Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:41:11.841Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:41:11.895Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:41:53.894Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:41:53.943Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:42:35.857Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:42:35.907Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:43:17.873Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:43:17.922Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:43:59.834Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:43:59.882Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:44:41.883Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:44:41.933Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:45:23.851Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:45:23.900Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:46:05.891Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:46:05.943Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:46:47.853Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:46:47.904Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:47:29.902Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:47:29.953Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:48:11.829Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:48:11.876Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:48:53.870Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:48:53.919Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:49:35.842Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:49:35.889Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:50:17.882Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:50:17.937Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:50:59.835Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:50:59.888Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:51:41.868Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:51:41.918Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:52:23.846Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:52:23.895Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:53:05.872Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:53:05.926Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:53:47.826Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:53:47.875Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:54:29.860Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:54:29.910Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:55:11.826Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:55:11.876Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:55:53.868Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:55:53.917Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:56:35.830Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:56:35.881Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:57:17.892Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:57:17.942Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:57:59.842Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:57:59.893Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:58:41.862Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:58:41.919Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:59:23.839Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T16:59:23.891Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:00:06.066Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:00:06.217Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:00:47.830Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:00:47.880Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:01:29.869Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:01:29.918Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:02:11.869Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:02:11.922Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:02:53.872Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:02:53.924Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:03:35.836Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:03:35.886Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:04:17.889Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:04:17.940Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:04:59.829Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:04:59.880Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:05:41.876Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:05:41.925Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:06:23.834Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:06:23.881Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:07:05.858Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:07:05.908Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:07:47.837Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:07:47.887Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:08:29.885Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:08:29.936Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:09:11.812Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:09:11.865Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:09:53.884Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:09:53.936Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:10:35.824Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:10:35.876Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:11:17.849Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:11:17.900Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:11:59.827Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:11:59.877Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:12:41.861Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:12:41.914Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:13:23.852Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:13:23.904Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:14:05.854Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:14:05.911Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:14:47.822Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:14:47.876Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:15:29.863Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:15:29.912Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:16:11.840Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:16:11.892Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:16:53.854Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:16:53.920Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:17:35.835Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:17:35.885Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:18:17.849Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:18:17.900Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:18:59.806Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:18:59.857Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:19:41.849Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:19:41.898Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:20:23.836Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:20:23.887Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:21:05.845Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:21:05.900Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:21:39.036Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-13T17:21:39.042Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-13T17:21:39.043Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-13T17:21:39.048Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-13T17:21:39.048Z] info    - No authentication
+[2021-07-13T17:21:39.048Z] info    - Not serving HTTPS
+[2021-07-13T17:21:47.801Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:21:47.852Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:22:29.874Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:22:29.925Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:23:11.816Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:23:11.866Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:23:53.844Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:23:53.891Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:24:35.866Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:24:35.967Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:25:17.844Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:25:17.898Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:25:59.815Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:25:59.864Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:26:41.853Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:26:41.918Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:27:23.855Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:27:23.905Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:28:05.838Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:28:05.888Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:28:47.799Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:28:47.847Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:29:29.825Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:29:29.877Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:30:11.801Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:30:11.852Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:30:53.876Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T17:30:53.930Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T20:10:42.099Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-13T20:10:42.104Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-13T20:10:42.105Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-13T20:10:42.110Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-13T20:10:42.110Z] info    - No authentication
+[2021-07-13T20:10:42.110Z] info    - Not serving HTTPS
+[2021-07-13T22:56:51.746Z] warn  discarding socket connection: vscode is not running
+[2021-07-13T23:02:48.601Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-13T23:02:48.607Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-13T23:02:48.607Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-13T23:02:48.612Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-13T23:02:48.613Z] info    - No authentication
+[2021-07-13T23:02:48.613Z] info    - Not serving HTTPS
+[2021-07-14T01:55:55.895Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-14T01:55:55.901Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-14T01:55:55.901Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-14T01:55:55.906Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-14T01:55:55.906Z] info    - No authentication
+[2021-07-14T01:55:55.906Z] info    - Not serving HTTPS
+[2021-07-14T01:55:59.876Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:55:59.932Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:56:16.806Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:56:16.869Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:56:38.856Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:56:38.913Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:57:00.912Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:57:00.980Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:57:22.847Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:57:22.895Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:57:44.852Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:57:44.902Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:58:06.930Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:58:06.983Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:58:48.847Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:58:48.912Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:59:30.887Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T01:59:30.946Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T02:00:12.847Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T02:00:12.898Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T02:00:54.896Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T02:00:54.963Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T02:01:36.866Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T02:01:36.917Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T02:02:18.908Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T02:02:19.005Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T04:47:34.408Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-14T04:47:34.414Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-14T04:47:34.414Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-14T04:47:34.419Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-14T04:47:34.419Z] info    - No authentication
+[2021-07-14T04:47:34.419Z] info    - Not serving HTTPS
+[2021-07-14T07:39:06.608Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-14T07:39:06.613Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-14T07:39:06.613Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-14T07:39:06.618Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-14T07:39:06.618Z] info    - No authentication
+[2021-07-14T07:39:06.618Z] info    - Not serving HTTPS
+[2021-07-14T10:30:27.836Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-14T10:30:27.842Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-14T10:30:27.842Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-14T10:30:27.848Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-14T10:30:27.848Z] info    - No authentication
+[2021-07-14T10:30:27.848Z] info    - Not serving HTTPS
+[2021-07-14T13:01:29.052Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T13:22:39.114Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-14T13:22:39.120Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-14T13:22:39.121Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-14T13:22:39.126Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-14T13:22:39.126Z] info    - No authentication
+[2021-07-14T13:22:39.126Z] info    - Not serving HTTPS
+[2021-07-14T16:16:20.996Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-14T16:16:21.002Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-14T16:16:21.002Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-14T16:16:21.007Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-14T16:16:21.007Z] info    - No authentication
+[2021-07-14T16:16:21.007Z] info    - Not serving HTTPS
+[2021-07-14T16:16:25.105Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:16:25.157Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:16:42.005Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:16:42.054Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:17:04.107Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:17:04.160Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:17:26.133Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:17:26.191Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:17:48.074Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:17:48.127Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:18:10.045Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:18:10.096Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:18:32.102Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:18:32.154Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:19:14.001Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:19:14.057Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:19:56.070Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:19:56.119Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:20:38.069Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:20:38.123Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:21:20.062Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:21:20.113Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:22:02.025Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:22:02.075Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:22:44.085Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:22:44.133Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:23:26.040Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:23:26.088Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:24:08.089Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:24:08.142Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:24:50.037Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:24:50.088Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:25:32.084Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:25:32.145Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:26:13.984Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:26:14.040Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:26:56.107Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:26:56.161Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:27:38.035Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:27:38.088Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:28:20.272Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:28:20.331Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:29:02.026Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:29:02.077Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:29:44.090Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:29:44.142Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:30:26.025Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:30:26.080Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:31:08.067Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:31:08.126Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:31:50.039Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:31:50.089Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:32:32.052Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:32:32.103Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:33:13.977Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:33:14.029Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:33:56.125Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:33:56.185Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:34:38.043Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:34:38.099Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:35:20.064Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:35:20.117Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:36:02.044Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:36:02.100Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:36:44.050Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:36:44.107Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:37:26.082Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:37:26.136Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:38:08.053Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:38:08.111Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:38:50.045Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:38:50.097Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:39:32.088Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:39:32.137Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:40:13.990Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:40:14.040Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:40:56.138Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:40:56.204Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:41:38.057Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:41:38.110Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:42:20.075Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:42:20.127Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:43:02.026Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:43:02.077Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:43:44.069Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:43:44.124Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:44:26.025Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:44:26.076Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:45:08.062Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:45:08.111Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:45:50.034Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:45:50.086Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:46:32.102Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:46:32.154Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:47:13.964Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:47:14.015Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:47:56.063Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:47:56.114Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:48:38.011Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:48:38.064Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:49:20.052Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:49:20.105Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:50:02.059Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:50:02.113Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:50:44.062Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:50:44.114Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:51:26.024Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:51:26.078Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:52:08.067Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:52:08.116Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:52:50.043Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:52:50.092Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:53:32.053Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:53:32.101Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:54:13.985Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:54:14.038Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:54:56.116Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:54:56.175Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:55:38.013Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:55:38.062Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:56:20.040Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:56:20.089Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:57:02.021Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:57:02.072Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:57:44.055Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:57:44.107Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:58:26.015Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:58:26.063Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:59:08.067Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:59:08.119Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:59:50.186Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T16:59:50.237Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:00:32.060Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:00:32.111Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:01:13.971Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:01:14.023Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:01:56.072Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:01:56.126Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:02:38.012Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:02:38.064Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:03:20.057Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:03:20.107Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:04:01.993Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:04:02.044Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:04:44.029Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:04:44.083Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:05:26.012Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:05:26.063Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:06:08.051Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:06:08.129Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:06:49.992Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:06:50.041Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:07:32.058Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:07:32.109Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:08:13.954Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:08:14.004Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:08:56.189Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:08:56.259Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:09:38.000Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:09:38.053Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:10:20.019Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:10:20.082Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:11:02.013Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:11:02.064Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:11:44.051Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:11:44.099Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:12:26.004Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:12:26.055Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:13:08.082Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:13:08.135Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:13:50.004Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:13:50.057Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:14:32.065Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:14:32.114Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:15:13.943Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:15:13.993Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:15:56.044Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:15:56.093Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:16:38.035Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:16:38.083Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:17:20.058Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:17:20.106Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:18:02.014Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:18:02.069Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:18:44.038Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:18:44.087Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:19:26.006Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:19:26.057Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:20:08.042Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:20:08.095Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:20:50.002Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:20:50.053Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:21:32.050Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:21:32.108Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:22:13.966Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:22:14.014Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:22:56.032Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:22:56.083Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:23:37.981Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:23:38.038Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:24:20.042Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:24:20.094Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:25:02.061Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:25:02.131Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:25:44.034Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:25:44.086Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:26:26.051Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:26:26.102Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:27:08.000Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:27:08.053Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:27:50.069Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:27:50.124Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:28:32.137Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:28:32.189Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:29:13.992Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:29:14.041Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:29:56.022Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:29:56.093Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:30:38.047Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:30:38.117Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:31:19.992Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:31:20.055Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:32:02.052Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:32:02.110Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:32:44.061Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:32:44.109Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:33:26.041Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:33:26.100Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:34:08.002Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:34:08.068Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:34:50.065Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:34:50.185Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:35:32.003Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:35:32.052Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T17:47:43.810Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:33:41.739Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-14T20:33:41.745Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-14T20:33:41.745Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-14T20:33:41.750Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-14T20:33:41.750Z] info    - No authentication
+[2021-07-14T20:33:41.750Z] info    - Not serving HTTPS
+[2021-07-14T20:33:45.913Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:33:45.965Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:34:02.776Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:34:02.827Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:34:24.837Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:34:24.888Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:34:46.924Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:34:46.975Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:35:08.840Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:35:08.896Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:35:30.882Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:35:30.931Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:35:52.879Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:35:52.932Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:36:34.845Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:36:34.895Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:37:16.871Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:37:16.924Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:37:58.871Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:37:58.923Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:38:40.906Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:38:40.976Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:39:22.871Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:39:22.945Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:40:04.881Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:40:04.952Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:40:46.867Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:40:46.915Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:41:28.886Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:41:28.937Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:42:10.836Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:42:10.913Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:42:52.875Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:42:52.927Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:43:34.835Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:43:34.887Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:44:16.879Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:44:16.930Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:44:58.844Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:44:58.897Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:45:40.893Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:45:40.956Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:46:22.840Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:46:22.894Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:47:04.876Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:47:04.927Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:47:46.833Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:47:46.885Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:48:28.892Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:48:28.943Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:49:10.836Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:49:10.885Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:49:52.888Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:49:52.939Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:50:34.919Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:50:34.998Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:51:16.869Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:51:16.926Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:51:58.819Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:51:58.871Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:52:40.866Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:52:40.920Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:53:22.841Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:53:22.897Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:54:04.877Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:54:04.928Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:54:46.844Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:54:46.896Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:55:28.873Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:55:28.925Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:56:10.835Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:56:10.885Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:56:52.865Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:56:52.927Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:57:34.831Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:57:34.879Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:58:16.873Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:58:16.935Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:58:58.866Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:58:58.936Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:59:40.913Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T20:59:40.962Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:00:22.827Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:00:22.877Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:01:04.863Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:01:04.919Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:01:46.836Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:01:46.889Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:02:28.902Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:02:28.951Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:03:10.829Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:03:10.882Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:03:52.886Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:03:52.942Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:04:34.844Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:04:34.894Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:05:16.840Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:05:16.914Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:05:58.825Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:05:58.877Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:06:40.860Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:06:40.909Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:07:22.821Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:07:22.878Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:08:04.894Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:08:04.941Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:08:46.824Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:08:46.875Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:09:28.834Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:09:28.887Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:10:10.827Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:10:10.907Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:10:52.845Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:10:52.897Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:11:34.822Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:11:34.875Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:12:16.865Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:12:16.912Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:12:58.838Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:12:58.891Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:13:40.854Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:13:40.903Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:14:22.834Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:14:22.885Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:15:04.851Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:15:04.902Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:15:46.821Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:15:46.873Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:16:28.858Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:16:28.912Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:17:10.814Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:17:10.866Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:17:52.886Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:17:52.938Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:18:34.822Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:18:34.871Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:19:16.848Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:19:16.901Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:19:58.832Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:19:58.885Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:20:40.852Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:20:40.903Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:21:22.807Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:21:22.860Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:22:04.852Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:22:04.905Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:22:46.850Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:22:46.905Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:23:28.862Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:23:28.908Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:24:10.808Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:24:10.858Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:24:52.868Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:24:52.920Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:25:34.790Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:25:34.846Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:26:16.825Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:26:16.897Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:26:58.841Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:26:58.889Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:27:40.838Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:27:40.887Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:28:22.811Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:28:22.866Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:29:04.852Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:29:04.905Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:29:46.842Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:29:46.908Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:30:28.816Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:30:28.869Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:31:10.793Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:31:10.844Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:31:52.818Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:31:52.869Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:32:34.824Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:32:34.899Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:33:16.860Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:33:16.934Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:33:58.829Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:33:58.883Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:34:40.846Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:34:40.893Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:35:22.788Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:35:22.835Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:36:04.816Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:36:04.864Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:36:46.787Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:36:46.836Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:37:28.823Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:37:28.872Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:38:10.792Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:38:10.845Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:38:52.832Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:38:52.886Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:39:34.785Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:39:34.841Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:40:16.832Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:40:16.882Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:40:58.791Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:40:58.841Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:41:40.822Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:41:40.876Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:42:22.790Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:42:22.843Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:43:04.829Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:43:04.876Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:43:46.782Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:43:46.832Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:44:28.922Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:44:28.974Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:45:10.792Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:45:10.844Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:45:52.821Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:45:52.872Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:46:34.779Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:46:34.830Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:47:16.821Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:47:16.874Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:47:58.776Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:47:58.827Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:48:40.811Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:48:40.864Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:49:22.781Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:49:22.831Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:50:04.806Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:50:04.858Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:50:46.776Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:50:46.824Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:51:28.837Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:51:28.888Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:52:10.789Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:52:10.836Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:52:52.842Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:52:52.895Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:53:34.793Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:53:34.846Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:54:16.829Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:54:16.889Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:54:58.772Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:54:58.821Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:55:40.844Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:55:40.897Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:56:22.780Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:56:22.827Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:57:04.832Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:57:04.882Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:57:46.789Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:57:46.845Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:58:28.817Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:58:28.867Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:59:10.782Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:59:10.832Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:59:52.829Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T21:59:52.888Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:00:34.790Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:00:34.837Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:01:16.873Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:01:16.925Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:01:58.966Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:01:59.014Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:02:40.808Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:02:40.859Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:03:22.778Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:03:22.829Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:04:04.818Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:04:04.877Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:04:46.801Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:04:46.851Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T22:05:01.010Z] warn  discarding socket connection: vscode is not running
+[2021-07-14T23:30:24.749Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-14T23:30:24.755Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-14T23:30:24.755Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-14T23:30:24.760Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-14T23:30:24.760Z] info    - No authentication
+[2021-07-14T23:30:24.761Z] info    - Not serving HTTPS
+[2021-07-14T23:52:54.355Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T00:38:52.571Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T02:25:21.413Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-15T02:25:21.419Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-15T02:25:21.419Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-15T02:25:21.424Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-15T02:25:21.424Z] info    - No authentication
+[2021-07-15T02:25:21.424Z] info    - Not serving HTTPS
+[2021-07-15T05:19:17.916Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-15T05:19:17.922Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-15T05:19:17.922Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-15T05:19:17.927Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-15T05:19:17.927Z] info    - No authentication
+[2021-07-15T05:19:17.927Z] info    - Not serving HTTPS
+[2021-07-15T08:11:13.276Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-15T08:11:13.281Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-15T08:11:13.282Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-15T08:11:13.286Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-15T08:11:13.286Z] info    - No authentication
+[2021-07-15T08:11:13.286Z] info    - Not serving HTTPS
+[2021-07-15T11:01:41.157Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-15T11:01:41.163Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-15T11:01:41.163Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-15T11:01:41.168Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-15T11:01:41.168Z] info    - No authentication
+[2021-07-15T11:01:41.168Z] info    - Not serving HTTPS
+[2021-07-15T14:09:47.560Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-15T14:09:47.565Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-15T14:09:47.566Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-15T14:09:47.571Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-15T14:09:47.571Z] info    - No authentication
+[2021-07-15T14:09:47.571Z] info    - Not serving HTTPS
+[2021-07-15T14:09:51.112Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:09:51.163Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:10:06.268Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:10:06.326Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:10:26.476Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:10:26.528Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:10:46.694Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:10:46.745Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:11:06.917Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:11:06.989Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:11:27.107Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:11:27.160Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:11:47.305Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:11:47.363Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:12:27.543Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:12:27.594Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:13:07.760Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:13:07.810Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:13:47.990Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:13:48.039Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:14:28.199Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:14:28.250Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:15:08.562Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:15:08.612Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:15:48.784Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:15:48.831Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:16:29.032Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:16:29.081Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:17:09.219Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:17:09.268Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T14:17:46.031Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:37:15.268Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-15T18:37:15.275Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-15T18:37:15.275Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-15T18:37:15.281Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-15T18:37:15.281Z] info    - No authentication
+[2021-07-15T18:37:15.281Z] info    - Not serving HTTPS
+[2021-07-15T18:37:19.834Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:37:19.889Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:37:36.750Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:37:36.807Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:37:58.816Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:37:58.868Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:38:20.857Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:38:20.917Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:38:42.822Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:38:42.875Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:39:04.806Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:39:04.859Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:39:26.816Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:39:26.866Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:40:08.798Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:40:08.849Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:40:50.862Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:40:50.923Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:41:32.866Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:41:32.923Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:42:14.863Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:42:14.915Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:42:56.834Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:42:56.884Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:43:38.884Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:43:38.936Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:44:20.840Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:44:20.888Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:45:02.870Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:45:02.921Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:45:44.836Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:45:44.888Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:46:26.860Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:46:26.913Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:47:08.746Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:47:08.800Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:47:50.811Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:47:50.862Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:48:32.845Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:48:33.018Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:49:14.824Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:49:14.878Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:49:56.804Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:49:56.854Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:50:38.821Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T18:50:38.893Z] warn  discarding socket connection: vscode is not running
+[2021-07-15T21:28:43.237Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-15T21:28:43.243Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-15T21:28:43.243Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-15T21:28:43.248Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-15T21:28:43.248Z] info    - No authentication
+[2021-07-15T21:28:43.248Z] info    - Not serving HTTPS
+[2021-07-15T23:27:11.686Z] warn  discarding socket connection: vscode is not running
+[2021-07-16T03:05:22.800Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-16T03:05:22.806Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-16T03:05:22.806Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-16T03:05:22.811Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-16T03:05:22.811Z] info    - No authentication
+[2021-07-16T03:05:22.811Z] info    - Not serving HTTPS
+[2021-07-16T05:56:48.061Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-16T05:56:48.068Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-16T05:56:48.068Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-16T05:56:48.073Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-16T05:56:48.073Z] info    - No authentication
+[2021-07-16T05:56:48.073Z] info    - Not serving HTTPS
+[2021-07-16T08:50:24.270Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-16T08:50:24.275Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-16T08:50:24.275Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-16T08:50:24.280Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-16T08:50:24.280Z] info    - No authentication
+[2021-07-16T08:50:24.280Z] info    - Not serving HTTPS
+[2021-07-16T11:41:57.623Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-16T11:41:57.629Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-16T11:41:57.629Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-16T11:41:57.634Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-16T11:41:57.634Z] info    - No authentication
+[2021-07-16T11:41:57.634Z] info    - Not serving HTTPS
+[2021-07-16T12:56:08.332Z] warn  discarding socket connection: vscode is not running
+[2021-07-16T12:56:42.471Z] warn  discarding socket connection: vscode is not running
+[2021-07-16T20:03:59.891Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-16T20:03:59.897Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-16T20:03:59.897Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-16T20:03:59.902Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-16T20:03:59.902Z] info    - No authentication
+[2021-07-16T20:03:59.902Z] info    - Not serving HTTPS
+[2021-07-16T23:17:03.768Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-16T23:17:03.774Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-16T23:17:03.774Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-16T23:17:03.780Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-16T23:17:03.780Z] info    - No authentication
+[2021-07-16T23:17:03.780Z] info    - Not serving HTTPS
+[2021-07-17T02:11:32.525Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-17T02:11:32.531Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-17T02:11:32.531Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-17T02:11:32.536Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-17T02:11:32.536Z] info    - No authentication
+[2021-07-17T02:11:32.536Z] info    - Not serving HTTPS
+[2021-07-17T05:02:36.340Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-17T05:02:36.345Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-17T05:02:36.345Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-17T05:02:36.350Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-17T05:02:36.350Z] info    - No authentication
+[2021-07-17T05:02:36.350Z] info    - Not serving HTTPS
+[2021-07-17T07:56:18.527Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-17T07:56:18.535Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-17T07:56:18.535Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-17T07:56:18.541Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-17T07:56:18.542Z] info    - No authentication
+[2021-07-17T07:56:18.542Z] info    - Not serving HTTPS
+[2021-07-17T10:50:51.946Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-17T10:50:51.953Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-17T10:50:51.953Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-17T10:50:51.958Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-17T10:50:51.959Z] info    - No authentication
+[2021-07-17T10:50:51.959Z] info    - Not serving HTTPS
+[2021-07-17T13:46:53.379Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-17T13:46:53.385Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-17T13:46:53.385Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-17T13:46:53.391Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-17T13:46:53.391Z] info    - No authentication
+[2021-07-17T13:46:53.391Z] info    - Not serving HTTPS
+[2021-07-17T16:39:44.037Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-17T16:39:44.049Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-17T16:39:44.049Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-17T16:39:44.057Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-17T16:39:44.063Z] info    - No authentication
+[2021-07-17T16:39:44.064Z] info    - Not serving HTTPS
+[2021-07-17T19:30:00.483Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-17T19:30:00.489Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-17T19:30:00.489Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-17T19:30:00.494Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-17T19:30:00.494Z] info    - No authentication
+[2021-07-17T19:30:00.494Z] info    - Not serving HTTPS
+[2021-07-17T22:25:49.663Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-17T22:25:49.668Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-17T22:25:49.668Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-17T22:25:49.673Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-17T22:25:49.673Z] info    - No authentication
+[2021-07-17T22:25:49.673Z] info    - Not serving HTTPS
+[2021-07-18T01:18:51.809Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-18T01:18:51.815Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-18T01:18:51.815Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-18T01:18:51.821Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-18T01:18:51.821Z] info    - No authentication
+[2021-07-18T01:18:51.821Z] info    - Not serving HTTPS
+[2021-07-18T04:09:55.147Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-18T04:09:55.154Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-18T04:09:55.155Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-18T04:09:55.161Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-18T04:09:55.161Z] info    - No authentication
+[2021-07-18T04:09:55.161Z] info    - Not serving HTTPS
+[2021-07-18T07:03:11.842Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-18T07:03:11.848Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-18T07:03:11.848Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-18T07:03:11.853Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-18T07:03:11.853Z] info    - No authentication
+[2021-07-18T07:03:11.853Z] info    - Not serving HTTPS
+[2021-07-18T09:56:23.635Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-18T09:56:23.641Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-18T09:56:23.641Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-18T09:56:23.646Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-18T09:56:23.646Z] info    - No authentication
+[2021-07-18T09:56:23.646Z] info    - Not serving HTTPS
+[2021-07-18T12:47:33.322Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-18T12:47:33.327Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-18T12:47:33.327Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-18T12:47:33.332Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-18T12:47:33.332Z] info    - No authentication
+[2021-07-18T12:47:33.332Z] info    - Not serving HTTPS
+[2021-07-18T15:38:06.134Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-18T15:38:06.139Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-18T15:38:06.139Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-18T15:38:06.144Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-18T15:38:06.144Z] info    - No authentication
+[2021-07-18T15:38:06.144Z] info    - Not serving HTTPS
+[2021-07-18T18:28:55.800Z] info  Using user-data-dir ~/.local/share/code-server
+[2021-07-18T18:28:55.807Z] info  code-server 3.6.0 a4a03c14922ccaec2a9ff8d1b7b2af8522a4214d
+[2021-07-18T18:28:55.808Z] info  Using config file ~/.config/code-server/config.yaml
+[2021-07-18T18:28:55.814Z] info  HTTP server listening on http://0.0.0.0:8080
+[2021-07-18T18:28:55.814Z] info    - No authentication
+[2021-07-18T18:28:55.814Z] info    - Not serving HTTPS

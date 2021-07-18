@@ -21,12 +21,43 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	t
+|3,1,36,0,1,0,1626367689,"t"
 
 # File marks:
-'0  25  0  ~/.git/COMMIT_EDITMSG
-|4,48,25,0,1626146455,"~/.git/COMMIT_EDITMSG"
+'0  57  0  ~/.git/COMMIT_EDITMSG
+|4,48,57,0,1626367726,"~/.git/COMMIT_EDITMSG"
+'1  2  0  ~/.git/COMMIT_EDITMSG
+|4,49,2,0,1626352672,"~/.git/COMMIT_EDITMSG"
+'2  2  0  ~/.git/COMMIT_EDITMSG
+|4,50,2,0,1626352672,"~/.git/COMMIT_EDITMSG"
+'3  26  0  ~/.git/COMMIT_EDITMSG
+|4,51,26,0,1626146455,"~/.git/COMMIT_EDITMSG"
+'4  25  0  ~/.git/COMMIT_EDITMSG
+|4,52,25,0,1626146455,"~/.git/COMMIT_EDITMSG"
+'5  26  0  ~/.git/COMMIT_EDITMSG
+|4,53,26,0,1626146455,"~/.git/COMMIT_EDITMSG"
+'6  25  0  ~/.git/COMMIT_EDITMSG
+|4,54,25,0,1626146455,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  57  0  ~/.git/COMMIT_EDITMSG
+|4,39,57,0,1626367726,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1626367668,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1626352672,"~/.git/COMMIT_EDITMSG"
+-'  2  0  ~/.git/COMMIT_EDITMSG
+|4,39,2,0,1626352672,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1626352560,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1626146455,"~/.git/COMMIT_EDITMSG"
+-'  25  0  ~/.git/COMMIT_EDITMSG
+|4,39,25,0,1626146455,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1626146455,"~/.git/COMMIT_EDITMSG"
 -'  25  0  ~/.git/COMMIT_EDITMSG
 |4,39,25,0,1626146455,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -35,5 +66,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1626144274	0
-	"	25	0
+	*	1626367700	0
+	"	57	0
+	.	56	0
+	+	65	0
+	+	61	0
+	+	50	14
+	+	58	0
+	+	1	0
+	+	58	0
+	+	56	0

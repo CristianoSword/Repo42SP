@@ -1,6 +1,0 @@
-[2021-07-06 22:12:53.218] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/crcamach/.local/share/code-server/User/snippets'
-[2021-07-06 22:12:53.218] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/crcamach/.local/share/code-server/User/snippets'
-[2021-07-06 22:46:52.661] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/crcamach/.local/share/code-server/User/snippets'
-[2021-07-06 22:46:52.662] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/crcamach/.local/share/code-server/User/snippets'
-[2021-07-06 22:47:07.744] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/crcamach/.local/share/code-server/User/snippets'
-[2021-07-06 22:47:07.744] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/crcamach/.local/share/code-server/User/snippets'
